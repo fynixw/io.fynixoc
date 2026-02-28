@@ -4,6 +4,8 @@ draft = false
 title = 'AI时代软件工程：起点与终点'
 categories = ['Agentic Coding']
 tags = ['AI', '软件工程', 'LLM', '工程实践']
+featuredImage = "/images/ai-software-engineering-1.jpg"
+images = ["/images/ai-software-engineering-1.jpg", "/images/ai-software-engineering-2.jpg", "/images/ai-software-engineering-3.jpg"]
 +++
 
 > 随着大语言模型在编程领域攻城拔寨，当AI能够将需求翻译为代码时，软件开发活动是否迎来了宿命的终点？软件产业从业者应该何去何从？或许这个问题的答案将深刻改变软件工程的实践范式。
