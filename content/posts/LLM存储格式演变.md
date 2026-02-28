@@ -3,7 +3,7 @@ date = '2025-02-28T22:19:54+08:00'
 draft = false
 title = '大语言模型存储格式发展历程'
 tags = ["学习笔记","大语言模型", "GGML", "GGUF"]
-featuredImage="neuron_network.png"
+featuredImage="/images/neuron_network.png"
 +++
 
 
